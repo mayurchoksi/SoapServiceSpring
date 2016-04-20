@@ -1,0 +1,7 @@
+server:  
+  port: 443
+  ssl:
+    enabled: true
+    key-alias: tomcat
+    key-store: "/Users/mayur/tmp/keystore.p12"
+    key-store-password: "mayur123"
