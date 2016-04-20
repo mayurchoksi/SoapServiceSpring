@@ -1,7 +1,0 @@
-server:  
-  port: 443
-  ssl:
-    enabled: true
-    key-alias: tomcat
-    key-store: "/tmp/keystore.p12"
-    key-store-password: "tomcat123"
