@@ -3,5 +3,5 @@ server:
   ssl:
     enabled: true
     key-alias: tomcat
-    key-store: "/Users/mayur/tmp/keystore.p12"
-    key-store-password: "mayur123"
+    key-store: "/tmp/keystore.p12"
+    key-store-password: "tomcat123"
